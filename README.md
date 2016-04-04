@@ -1,2 +1,0 @@
-# errormessages
-Error Messages
